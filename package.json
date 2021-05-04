@@ -1,0 +1,14 @@
+{
+  "name": "exercise",
+  "version": "1.0.0",
+  "description": "Responsive portfolio exercise",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch scss/:dist/css/"
+  },
+  "author": "Markus Taulu",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.32.12"
+  }
+}
